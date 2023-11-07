@@ -1,0 +1,7 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/Zimus/Documents/BALListics/git/media/videos/800p60/partial_movie_files/BALListic_Graph/760105287_3632171576_223132457.mp4'
+file 'file:C:/Users/Zimus/Documents/BALListics/git/media/videos/800p60/partial_movie_files/BALListic_Graph/2262459334_329969645_3337364813.mp4'
+file 'file:C:/Users/Zimus/Documents/BALListics/git/media/videos/800p60/partial_movie_files/BALListic_Graph/2262459334_1399828524_533868828.mp4'
+file 'file:C:/Users/Zimus/Documents/BALListics/git/media/videos/800p60/partial_movie_files/BALListic_Graph/2262459334_329969645_1498455793.mp4'
+file 'file:C:/Users/Zimus/Documents/BALListics/git/media/videos/800p60/partial_movie_files/BALListic_Graph/2262459334_756065122_3456870535.mp4'
+file 'file:C:/Users/Zimus/Documents/BALListics/git/media/videos/800p60/partial_movie_files/BALListic_Graph/2262459334_125286499_1616359672.mp4'
